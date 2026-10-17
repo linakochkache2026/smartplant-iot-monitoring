@@ -8,6 +8,19 @@ The project demonstrates how sensor data can be collected, transmitted to a clou
 
 **Project status:** Functional prototype with a simulated circuit and irrigation indicator.
 
+## Screenshots
+
+### SmartPlant Dashboard
+![SmartPlant Dashboard](screenshots/smartplant-dashboard1.png)
+![SmartPlant Dashboard](screenshots/smartplant-dashboard2.png)
+
+
+### ESP32 Circuit Simulation
+![Wokwi Circuit](screenshots/wokwi-circuit.png)
+
+### ThingSpeak Cloud Data
+![ThingSpeak Data](screenshots/thingspeak-data.png)
+
 ## Features
 
 - Soil moisture level simulation using a potentiometer.
