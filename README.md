@@ -10,17 +10,19 @@ The project demonstrates how sensor data can be collected, transmitted to a clou
 
 ## Screenshots
 
-### SmartPlant Dashboard
-![SmartPlant Dashboard](screenshots/smartplant-dashboard1.png)
-![SmartPlant Dashboard](screenshots/smartplant-dashboard2.png)
+## Screenshots
 
+### SmartPlant Dashboard
+![SmartPlant Dashboard](screenshots/smartplant-dashboard.png)
+
+### SmartPlant Dashboard — Second View
+![SmartPlant Dashboard Second View](screenshots/smartplant-dashboard-2.png)
 
 ### ESP32 Circuit Simulation
 ![Wokwi Circuit](screenshots/wokwi-circuit.png)
 
 ### ThingSpeak Cloud Data
 ![ThingSpeak Data](screenshots/thingspeak-data.png)
-
 ## Features
 
 - Soil moisture level simulation using a potentiometer.
